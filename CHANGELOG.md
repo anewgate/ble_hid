@@ -1,3 +1,3 @@
 ## 0.0.1
 
-* TODO: Describe initial release.
+* The test of the gamepad’s joystick and button inputs has been completed.
