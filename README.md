@@ -1,15 +1,17 @@
-# ble_hid
+ble_hid
 
-BLE HID flutter plugin project.
+BLE HID Flutter plugin project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter
-[plug-in package](https://flutter.dev/to/develop-plugins),
-a specialized package that includes platform-specific implementation code for
-Android and/or iOS.
+This Flutter plugin provides joystick and button input functionality from gamepads via BLE (Bluetooth Low Energy) HID (Human Interface Device) connections.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Usage
 
+1. Pair and connect your gamepad in HID mode to your Android phone or tablet.
+
+2. Run the Flutter project inside the example folder.
+
+3. Check the HID inputs on the screen.
+
+4. Enjoy coding!
