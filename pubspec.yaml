@@ -1,7 +1,7 @@
 name: ble_hid
 description: "BLE HID flutter plugin project."
 version: 0.0.1
-homepage:
+homepage: https://github.com/anewgate/ble_hid
 
 environment:
   sdk: ^3.9.0
